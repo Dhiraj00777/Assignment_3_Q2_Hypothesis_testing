@@ -10,3 +10,5 @@ Annova test for Analysis of varaince between more than 2 samples
 **Assume Null Hypothesis Ho as No Varaince: (All samples TAT population means are same).**
 
 **Thus Alternate Hypothesis Ha as It has Variance: (Atleast one sample TAT population mean is different).**
+
+file:LabTAT.csv
